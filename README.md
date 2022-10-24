@@ -4,6 +4,8 @@
 
 <p>Bytethesis é um site, blog sobre programação feito usando o <a href="https://github.com/gohugoio/hugo" target="_blank">Hugo</a> Framework</p>
 
+<img src="Images/Screenshot_20221024_143610.png" style="outline: #4CAF50 solid 10px;"></img>
+
 <h2>Características</h2>
 
 - Tema próprio
