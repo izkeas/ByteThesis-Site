@@ -6,6 +6,8 @@
 
 <img src="Images/homepage.png" style="outline: #4CAF50 solid 10px;"></img>
 
+<img src="Images/searchpage.ong"></img>
+
 <h2>Características</h2>
 
 - Tema próprio
@@ -17,4 +19,5 @@
 - Página sobre
 - Página de artigo
 - Responsivo
+- Pesquisa com lunr.js
 

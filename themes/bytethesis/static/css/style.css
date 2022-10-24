@@ -1,5 +1,6 @@
 @import "general.css";
 @import "article.css";
+@import "search.css";
 
 :root {
     --object-color: #1b252c;

@@ -36,3 +36,4 @@ min_version = "0.41.0"
     pre = "tag"
     url = "/tags/"
     weight = 3
+

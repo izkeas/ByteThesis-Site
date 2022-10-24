@@ -320,6 +320,27 @@ a:hover {
     color: var(--accent-color);
 }
 
+input[type="button"], button {
+    display: block;
+    background-color: var(--accent-color-2);
+    color: var(--text-color);
+    font-weight: 700;
+    border: none;
+}
+
+input[type="button"]:hover, button:hover {
+    cursor: pointer;
+    background-color: #2a814c;
+}
+
+input[type="button"]:active, button:active {
+    display: block;
+    background-color: #207541;
+    color: var(--text-color);
+    font-weight: 700;
+    border: none;
+}
+
 *  {
     color: var(--text-color-2)
 }
@@ -339,9 +360,3 @@ h1 {
 *, ::after, ::before {
     box-sizing: border-box;
 }
-
-button:hover {
-    cursor: pointer;
-}
-
-
