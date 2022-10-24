@@ -6,7 +6,7 @@
 
 <img src="Images/homepage.png" style="outline: #4CAF50 solid 10px;"></img>
 
-<img src="Images/searchpage.ong"></img>
+<img src="Images/searchpage.png"></img>
 
 <h2>Características</h2>
 
