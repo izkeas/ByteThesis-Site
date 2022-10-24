@@ -1,8 +1,8 @@
 ---
-title: "My First Post"
-date: 2022-10-21T15:30:58-03:00
+title: "My Second Post"
+date: 2022-10-23T15:30:58-03:00
 draft: false
-categories: [iniciante]
+categories: [python, ferramenta]
 author: 
     given_name: John
     family_name: Feminella
