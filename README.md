@@ -19,5 +19,5 @@
 - Página sobre
 - Página de artigo
 - Responsivo
-- Pesquisa com lunr.js
+- Página de pesquisa com lunr.js
 
