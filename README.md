@@ -1,4 +1,4 @@
 # ByteThesis-Site
-<img src="themes/static/images/Bytethesis.png">
+<img src="themes/bytethesis/static/images/Bytethesis.png">
 
 </img>
